@@ -7,9 +7,13 @@ class ConstraintsExamples extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: MainPage(),
+      title: 'Mirror Todo',
+      theme: ThemeData(
+        fontFamily: 'MPLUS1',
+      ),
+      home: const MainPage(),
     );
   }
 }

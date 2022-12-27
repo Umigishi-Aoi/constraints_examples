@@ -1,16 +1,18 @@
 # constraints_examples
 
-A new Flutter project.
+<img width="1249" alt="スクリーンショット 2022-12-27 18 20 19" src="https://user-images.githubusercontent.com/84505829/209643998-d8986391-3cf9-44b3-9031-31adf2d2ca23.png">
 
-## Getting Started
+このプロジェクトは、
+[Understanding Constraints](https://docs.flutter.dev/development/ui/layout/constraints) のExampleを
+コードと一緒に確認できるようにし、
+日本語で解説したWEBアプリのリポジトリです。
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+WEB アプリのリンクは以下です。
+https://umigishi-aoi.github.io/constraints_examples
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 使用フォントのライセンス
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mplus1-Regular.ttf is opened by SIL Open Font License https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
+
+Designer https://mplusfonts.github.io/
